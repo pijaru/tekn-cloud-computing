@@ -1,5 +1,6 @@
 1. Install git di PC
-<img src="install git.png" alt="Getting started" />
+<img src="(https://github.com/pijaru/tekn-cloud-computing/blob/main/clone-git-ke-lokal.png?raw=true)" alt="Getting started" />
+
 ![ScreenShot](install git.png)
 
 
