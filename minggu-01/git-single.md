@@ -1,16 +1,15 @@
 1. Install git di PC
-<img src="install git.png" alt="Getting started" />
-![ScreenShot](install git.png)
+<img src="/images/install git.png" alt="Getting started" />
+
 
 
 2. Create REPO
-<img src="create-repo.png" alt="Getting started" />
-![ScreenShot](create-repo.png)
+<img src="/images/create-repo.png" alt="Getting started" />
+
 
 3. Clone Git ke LOKAL
-<img src="clone-git-ke-lokal.png" alt="Getting started" />
-![ScreenShot](clone-git-ke-lokal.png)
+<img src="/images/clone-git-ke-lokal.png" alt="Getting started" />
+
 
 4. Konfigurasi GIT
-<img src="konfigurasi-git.png" alt="Getting started" />
-![ScreenShot](konfigurasi-git.png)
+<img src="/images/konfigurasi-git.png" alt="Getting started" />
