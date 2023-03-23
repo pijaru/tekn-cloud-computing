@@ -7,7 +7,7 @@ Keuntungan menggunakan PaaS
 4. Skalabilitas yang mudah dan juga hemat
 5. Fleksibilitas dalam pengembangan
 
-Latihan menggunakan Cyclic
+<h1>Latihan menggunakan Cyclic</h1>
 1. Deploy some code! 
 <img src="/images/mg3-deploy-to-cyclic.png" alt="Getting started" />
 
@@ -26,3 +26,28 @@ Latihan menggunakan Cyclic
 6. Hasil deploy bisa diakses di tautan berikut : https://good-plum-lion-gown.cyclic.app/
 Tampilannya seperti nampak pada gambar di bawah
 <img src="/images/mg3-deploy-url.png" alt="Getting started" />
+
+\
+\
+<h1>Tugas</h1>
+1. Kerjakan Deploy Some Code - DIY.
+<img src="/images/mg3-deploy-tugas-diy.png" alt="Getting started" />
+
+2. Signup cyclic with github and use github as the login. Seperti gambar dibawah
+<img src="/images/mg3-signup-with-github.png" alt="Getting started" />
+
+3. Select link my own, then select repo in github to be deploy on cyclic. In this case, i already prepare repo with name  deploy-some-code-diy to be deploy in cyclic. The click connect.
+<img src="/images/mg3-deploy-link-my-own.png" alt="Getting started" />
+
+4. Click approve and install to give cyclic permision and authorize. 
+<img src="/images/mg3-deploy-link-my-own.png" alt="Getting started" />
+
+5. Notifikasi bahwa deploy berhasil
+<img src="/images/mg3-deploy-success.png" alt="Getting started" />
+
+Sempat beberapa kali deploy dan berhasil, tetapi setelah deploy landing page tidak bisa diakses, ternyata untuk static page, saat proses deploy harus klik menu advanced terlebih dahulu, nanti akan muncul build option dan beberapa pilihannya, diantaranya adalah tombol untuk memilih Static Site. Referensi lebih jelasnya bisa diakses pada tautan berikut : https://www.cyclic.sh/posts/deploying-static-sites/
+
+6. Setelah berhasil di deploy, tampilannya akan nampak seperti pada gambar dibawah ini:
+<img src="/images/mg3-deploy-live.png" alt="Getting started" />
+
+Bisa dikunjungi juga melalui tautan berikut : https://aware-top-coat.cyclic.app/
