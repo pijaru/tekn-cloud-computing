@@ -34,7 +34,7 @@ Tampilannya seperti nampak pada gambar di bawah
 <img src="/images/mg3-deploy-tugas-diy.png" alt="Getting started" />
 
 2. Signup cyclic with github and use github as the login. Seperti gambar dibawah
-<img src="/images/mg3-signup-with-github.png" alt="Getting started" />
+<img src="/images/mg3-deploy-signup-with-github.png" alt="Getting started" />
 
 3. Select link my own, then select repo in github to be deploy on cyclic. In this case, i already prepare repo with name  deploy-some-code-diy to be deploy in cyclic. The click connect.
 <img src="/images/mg3-deploy-link-my-own.png" alt="Getting started" />
