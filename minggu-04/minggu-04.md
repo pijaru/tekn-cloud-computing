@@ -56,3 +56,7 @@ Perusahaan-perusahaan tersebut menyediakan berbagai layanan IaaS yang dapat dise
 <img src="/images/4.1-install-VM-ware-6-start.png" alt="Getting started" />
 <img src="/images/4.1-install-VM-ware-7-start.png" alt="Getting started" />
 <img src="/images/4.1-install-VM-ware-8-start.png" alt="Getting started" />
+<img src="/images/4.1-install-VM-ware-9-devstack-localconf.png" alt="Getting started" />
+<img src="/images/4.1-install-VM-ware-9-install-devstack.png" alt="Getting started" />
+<img src="/images/4.1-install-VM-ware-9-install-devstack-1.png" alt="Getting started" />
+<img src="/images/4.1-install-VM-ware-10-run stacksh.png" alt="Getting started" />
