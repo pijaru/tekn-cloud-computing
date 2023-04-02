@@ -60,3 +60,7 @@ Perusahaan-perusahaan tersebut menyediakan berbagai layanan IaaS yang dapat dise
 <img src="/images/4.1-install-VM-ware-9-install-devstack.png" alt="Getting started" />
 <img src="/images/4.1-install-VM-ware-9-install-devstack-1.png" alt="Getting started" />
 <img src="/images/4.1-install-VM-ware-10-run stacksh.png" alt="Getting started" />
+
+### Kesimpulan
+Berhasil melakukan instalasi VMWare, menggunakan ubuntu 22.0 JellyFish. Kemudian berhasil juga melakukan instalasi devstack dan running stack.sh
+
