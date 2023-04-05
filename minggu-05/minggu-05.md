@@ -39,3 +39,9 @@ Namun, kekurangan dari BPaaS adalah kekhawatiran tentang keamanan data dan priva
 
 - Zenefits: Zenefits adalah layanan BPaaS yang menyediakan solusi manajemen sumber daya manusia secara lengkap, termasuk manajemen karyawan, manajemen upah, manajemen manfaat, dan manajemen absensi. Zenefits juga dilengkapi dengan fitur analitik dan kecerdasan buatan yang dapat membantu bisnis mengelola sumber daya manusia mereka dengan lebih efisien dan terintegrasi.
 <img src="/images/5.7. zenefit.png" alt="Getting started" />
+
+### KESIMPULAN
+- BPaaS (Business Process as a Service) adalah layanan cloud computing yang menyediakan solusi bisnis lengkap dengan berbagai fitur dan layanan yang disesuaikan dengan kebutuhan bisnis.
+- BPaaS dapat membantu bisnis dalam meningkatkan efisiensi dan produktivitas dengan mengurangi biaya dan waktu yang diperlukan untuk mengelola operasi bisnis.
+- BPaaS dapat digunakan dalam berbagai aspek bisnis, seperti manajemen sumber daya perusahaan, manajemen pelanggan, manajemen rantai pasokan, manajemen sumber daya manusia, dan lain-lain.
+- BPaaS biasanya menggunakan teknologi cloud computing, seperti ERP cloud, CRM cloud, SCM cloud, dan HR cloud, untuk menyediakan solusi bisnis yang dapat diakses dari mana saja dan kapan saja.
