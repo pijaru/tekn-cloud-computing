@@ -45,3 +45,21 @@ Namun, kekurangan dari BPaaS adalah kekhawatiran tentang keamanan data dan priva
 - BPaaS dapat membantu bisnis dalam meningkatkan efisiensi dan produktivitas dengan mengurangi biaya dan waktu yang diperlukan untuk mengelola operasi bisnis.
 - BPaaS dapat digunakan dalam berbagai aspek bisnis, seperti manajemen sumber daya perusahaan, manajemen pelanggan, manajemen rantai pasokan, manajemen sumber daya manusia, dan lain-lain.
 - BPaaS biasanya menggunakan teknologi cloud computing, seperti ERP cloud, CRM cloud, SCM cloud, dan HR cloud, untuk menyediakan solusi bisnis yang dapat diakses dari mana saja dan kapan saja.
+
+## TUGAS
+### Panduan Berbelanja di Webstore E-Commerce OfBiz
+
+1. Buka website Webstore E-Commerce Ofbiz di https://demo-stable.ofbiz.apache.org/ecommerce/control/main
+<img src="/images/5.8. Panduan Belanja Ecommerce.png" alt="Getting started" />
+
+2. Telusuri produk kreatif yang ingin dibeli, seperti kerajinan tangan, lukisan, atau karya seni digital.
+3. Klik tombol "Add to Cart" untuk menambahkan produk ke keranjang belanja.
+4. Jika sudah selesai memilih produk, klik tombol "Checkout" untuk mulai proses pembayaran.
+5. Isi informasi pribadi dan informasi pengiriman, seperti nama lengkap, alamat, nomor telepon, dan email.
+6. Pilih metode pengiriman yang diinginkan, seperti pengiriman reguler atau ekspres.
+7. Pilih metode pembayaran yang diinginkan, seperti kartu kredit atau transfer bank.
+8. Ikuti instruksi untuk menyelesaikan proses pembayaran dan pastikan informasi pembayaran yang diisi benar.
+9. Setelah pembayaran berhasil dilakukan, Anda akan menerima konfirmasi pembayaran melalui email.
+10. Tunggu proses pengiriman produk yang dipilih dan pastikan alamat pengiriman yang diisi benar.
+11. Setelah produk diterima, periksa kondisi produk untuk memastikan tidak ada kerusakan atau kekurangan.
+12. Jika ada masalah dengan produk yang diterima, segera hubungi layanan pelanggan Webstore E-Commerce Ofbiz untuk meminta bantuan.
