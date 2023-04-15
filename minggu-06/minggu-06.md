@@ -119,8 +119,8 @@ Program Go untuk koneksi dan membaca data dari MongoDB
 
 3. Graphql to Mongo setelah mendapat permision, dan dijalankan, membuat route yang bisa diakses di port 8080 dengan route /graphql (localhost:8080/students), hasilnya seperti pada gambar dibawah
 <img src="/images/6. 17. graphql-mongo-after-run.png" alt="Getting started" />
-
 tapi karena tidak ada paramater yang dikirimkan, jadi result tidak mengembalikan apapun. 
+
 4. Kemudian, mari kita coba memberikan paramater saat mengekasesnya (http://localhost:8080/graphql?query={students{id,nim,nama,ipk,alamat}}), maka data yang dikembalikan menjadi seperti pada gambar dibawah:
 <img src="/images/6. 19 graphql-mongo-with-query.png" alt="Getting started" />
 
