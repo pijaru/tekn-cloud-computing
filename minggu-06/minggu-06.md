@@ -80,6 +80,7 @@ Program Go untuk koneksi dan membaca data dari MongoDB
 <img src="/images/6. 7. GOMONOG-OUTPUT.png" alt="Getting started" />
 
 ### Dengan menggunakan Gin, buatlah RESTful API untuk membaca dara dari MySQL dan MongoDB tersebut.
+- Gin Restful API with Mysql
 1. Source code connecting GIN to SQL
 <img src="/images/6. 8. go-gin-mysql.png" alt="Getting started" />
 
@@ -88,3 +89,55 @@ Program Go untuk koneksi dan membaca data dari MongoDB
 
 3. Gin setelah mendapat permision, membuat route yang bisa diakses di port 8080 dengan route /users, hasilnya seperti pada gambar dibawah
 <img src="/images/6. 10 go-gin-mysql-output.png" alt="Getting started" />
+
+- Gin Restful API with Mongo
+1. Source code connecting GIN to Mongo
+<img src="/images/6. 11 go-gin-mongo-sc.png" alt="Getting started" />
+
+2. Pop Firewall Permision setelah Program dijalankan
+<img src="/images/6. 12 go-gin-mongo-popup.png" alt="Getting started" />
+
+3. Gin setelah mendapat permision, membuat route yang bisa diakses di port 8080 dengan route /students (localhost:8080/students), hasilnya seperti pada gambar dibawah
+<img src="/images/6. 13 go-gin-mongo-output.png" alt="Getting started" />
+
+## TUGAS
+### Buat 2 program menggunakan salah satu pustaka yang ada di implementasi GraphQL di Go untuk membaca data dari MySQL serta MongoDB dan memberikan respon GraphQL, 1 program untuk MySQL, 1 program untuk MongoDB.
+
+# Implementasi GraphQL with Mysql
+1. Source code connecting GraphQl wit Mysql
+<img src="/images/6. 14 graphql-mysql-sc.png" alt="Getting started" />
+
+2. Output program setelah Program dijalankan
+<img src="images/6. 15. graphql-mysql-output.png" alt="Getting started" />
+
+# Implementasi GraphQL with Mongo
+1. Source code connecting Graphql to Mongo
+<img src="/images/6. 16. graphql-mongo-sc.png" alt="Getting started" />
+
+2. Pop Firewall Permision setelah Program dijalankan
+<img src="/images/6. 12 go-gin-mongo-popup.png" alt="Getting started" />
+
+3. Graphql to Mongo setelah mendapat permision, dan dijalankan, membuat route yang bisa diakses di port 8080 dengan route /graphql (localhost:8080/students), hasilnya seperti pada gambar dibawah
+<img src="/images/6. 17. graphql-mongo-after-run.png" alt="Getting started" />
+
+tapi karena tidak ada paramater yang dikirimkan, jadi result tidak mengembalikan apapun. 
+4. Kemudian, mari kita coba memberikan paramater saat mengekasesnya (http://localhost:8080/graphql?query={students{id,nim,nama,ipk,alamat}}), maka data yang dikembalikan menjadi seperti pada gambar dibawah:
+<img src="/images/6. 19 graphql-mongo-with-query.png" alt="Getting started" />
+
+## KESIMPULAN
+Dari pembelajaran Go, Gin RESTful API, dan GraphQL dengan MySQL dan MongoDB, beberapa kesimpulan dapat ditarik:
+
+1. Go adalah bahasa pemrograman yang cepat, aman, dan efisien dalam penggunaan memori. Hal ini menjadikan Go sebagai pilihan yang tepat untuk membangun aplikasi web dan layanan API.
+
+2. Gin adalah salah satu framework web untuk Go yang populer karena kecepatan, fleksibilitas, dan efisiensinya. Dengan Gin, Anda dapat dengan mudah membuat layanan RESTful API.
+
+3. MySQL adalah database relasional open-source yang banyak digunakan untuk menyimpan data terstruktur. MySQL menyediakan kinerja yang cepat, dukungan transaksi ACID, dan fitur keamanan terbaik.
+
+4. MongoDB adalah database dokumen open-source yang fleksibel dan sangat cocok untuk menyimpan data tidak terstruktur atau semi-struktural. MongoDB menyediakan skalabilitas yang tinggi, ketersediaan yang tinggi, dan dukungan terhadap sharding.
+
+5. GraphQL adalah bahasa kueri untuk API yang dikembangkan oleh Facebook. GraphQL memungkinkan Anda untuk mendefinisikan struktur data dan memungkinkan klien untuk meminta hanya data yang dibutuhkan, mengurangi ukuran respons, dan meningkatkan performa.
+
+6. Dalam membangun aplikasi web atau layanan API dengan Go, Anda dapat memilih untuk menggunakan MySQL atau MongoDB, tergantung pada jenis data yang ingin disimpan dan kebutuhan aplikasi. Jika Anda memerlukan skema data yang ketat dan transaksi ACID, MySQL adalah pilihan yang tepat. Namun, jika Anda memerlukan fleksibilitas dalam menyimpan data, MongoDB dapat menjadi pilihan yang lebih baik.
+
+7. Dalam membangun layanan API dengan Go dan GraphQL, Anda dapat memanfaatkan kecepatan dan efisiensi Go serta fleksibilitas dan performa GraphQL untuk memberikan pengalaman API yang lebih baik dan responsif bagi pengguna.
+
