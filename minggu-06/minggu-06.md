@@ -108,7 +108,7 @@ Program Go untuk koneksi dan membaca data dari MongoDB
 <img src="/images/6. 14 graphql-mysql-sc.png" alt="Getting started" />
 
 2. Output program setelah Program dijalankan
-<img src="images/6. 15. graphql-mysql-output.png" alt="Getting started" />
+<img src="/images/6. 15. graphql-mysql-output.png" alt="Getting started" />
 
 # Implementasi GraphQL with Mongo
 1. Source code connecting Graphql to Mongo
