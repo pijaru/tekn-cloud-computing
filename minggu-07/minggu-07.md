@@ -31,40 +31,40 @@ Docker telah menjadi sangat populer dalam pengembangan perangkat lunak dan penge
 ### Install Docker pada Windows
 1. Install Docker sesuai petunjuk pada Materi dan Pembahasan di atas, sesuaikan dengan OS yang anda gunakan.
 - Instalasi Docker pada Windows 11
-<img src="images/7. dokcer-1.png" alt="Getting started" />
+<img src="/images/7. dokcer-1.png" alt="Getting started" />
 
-<img src="images/7. dokcer-2.png" alt="Getting started" />
+<img src="/images/7. dokcer-2.png" alt="Getting started" />
 
 - Docker berhasil terinstall di windows
-<img src="images/7. dokcer-3.png" alt="Getting started" />
+<img src="/images/7. dokcer-3.png" alt="Getting started" />
 
-<img src="images/7. dokcer-4.png" alt="Getting started" />
+<img src="/images/7. dokcer-4.png" alt="Getting started" />
 
 2. Kerjakan no 4 pada Materi dan Penjelasan di atas.
 - Clone the getting-started repository
-<img src="images/7. dokcer-5.png" alt="Getting started" />
+<img src="/images/7. dokcer-5.png" alt="Getting started" />
 
 - In the app directory, the same location as the package.json file, create a file named Dockerfile. 
-<img src="images/7. dokcer-6.png" alt="Getting started" />
+<img src="/images/7. dokcer-6.png" alt="Getting started" />
 
 - Build the container image.
-<img src="images/7. dokcer-7.png" alt="Getting started" />
+<img src="/images/7. dokcer-7.png" alt="Getting started" />
 
 Proses build selesai
-<img src="images/7. dokcer-8.png" alt="Getting started" />
+<img src="/images/7. dokcer-8.png" alt="Getting started" />
 
 - Start container using the docker run command
-<img src="images/7. dokcer-9.png" alt="Getting started" />
+<img src="/images/7. dokcer-9.png" alt="Getting started" />
 
 - After a few seconds, open your web browser to http://localhost:3000. You should see your app.
-<img src="images/7. dokcer-10.png" alt="Getting started" />
+<img src="/images/7. dokcer-10.png" alt="Getting started" />
 
 - To see your containers, you can use the CLI or Docker Desktop’s graphical interface.
 USE CLI
-<img src="images/7. dokcer-12.png" alt="Getting started" />
+<img src="/images/7. dokcer-12.png" alt="Getting started" />
 
 USE Docker Desktop’s graphical interface
-<img src="images/7. dokcer-11.png" alt="Getting started" />
+<img src="/images/7. dokcer-11.png" alt="Getting started" />
 
 ### Kesimpulan
 Docker adalah platform yang populer untuk pengemasan, distribusi, dan menjalankan aplikasi dalam kontainer yang terisolasi. Dengan menggunakan teknologi containerization, Docker memungkinkan pengguna untuk mengemas aplikasi dan dependensinya menjadi unit yang portabel dan dapat dijalankan di berbagai lingkungan.
